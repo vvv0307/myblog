@@ -7,10 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687ced1f-e4ea-4173-8054-04ff324b0229" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/README.md" />
-    </list>
+    <list default="true" id="687ced1f-e4ea-4173-8054-04ff324b0229" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -550,12 +547,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521602707036</updated>
       <workItem from="1521602711563" duration="16238000" />
-      <workItem from="1521706470733" duration="671000" />
+      <workItem from="1521706470733" duration="795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16909000" />
+    <option name="totallyTimeSpent" value="17033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="706" extended-state="6" />
