@@ -12,10 +12,9 @@ import javax.servlet.http.HttpServletRequest;
 @Controller
 public class HelloWorldController {
     private static final Log logger = LogFactory.getLog(HelloWorldController.class);
-    @RequestMapping(value="/hello",method = RequestMethod.GET)
+    @RequestMapping(value="/",method = RequestMethod.GET)
     @ResponseBody
     public String hello(HttpServletRequest request){
-        String s = request.getParameter("name");
-        return s;
+        return "hello world";
     }
 }
